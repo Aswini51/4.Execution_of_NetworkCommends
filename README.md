@@ -40,10 +40,10 @@ This commands includes
 <img width="884" height="706" alt="Screenshot 2025-08-22 203454" src="https://github.com/user-attachments/assets/6fd82660-beb7-4a59-b48f-6ade6652c87c" />
 
 ## ping :
-<img width="968" height="839" alt="Screenshot 2025-08-22 203512" src="https://github.com/user-attachments/assets/44a768d4-d8c5-4b0a-ac2f-fbdaa268fbbe" />
+<img width="887" height="320" alt="Screenshot 2025-08-25 165152" src="https://github.com/user-attachments/assets/4f508643-d374-4f7a-83a2-955a41ebe1fb" />
 
 ## tracert :
-<img width="849" height="388" alt="Screenshot 2025-08-22 203535" src="https://github.com/user-attachments/assets/7c30c812-9ad3-4fc8-8cda-7e5248a2ddba" />
+<img width="1035" height="423" alt="Screenshot 2025-08-25 165406" src="https://github.com/user-attachments/assets/0b96fc98-a4ef-4a0e-997e-f4a85b155ac9" />
 
 ## nslookup :
 <img width="605" height="805" alt="Screenshot 2025-08-22 204051" src="https://github.com/user-attachments/assets/89e58d35-14c6-4bd3-a9ae-a718a5016664" />
